@@ -2,19 +2,21 @@
 
 My very first Arduino project. It is an equivalent of "hello world" with the use of Arduino Uno. Arduino blinks the inbuilt diode at the coded frequency.
 
+Built based on the Arduino's own example.
+
 ### Tech
 
 **Language:**
 The language used in Arduino's dialect of C/C++.
 
-More on the syntax syntax rules:
+More on the syntax rules:
 <a href="https://www.arduino.cc/reference/en/#functions"> here.</a>
-
 
 **Hardware:**
 Arduino Uno
 
-Built based on the Arduino's own example.
+### How to run
+
 
 ### Blink1
 The inbuilt led blinks with 1000 milliseconds of light and 1000 milliseconds of no light.
