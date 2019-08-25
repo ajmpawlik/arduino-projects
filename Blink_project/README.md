@@ -32,7 +32,9 @@ The Morse Code sequence looks like below:
 
 **.... . .-.. .-.. ---     .-- --- .-. .-.. -..**
 
-It contains ten characters and one space between the two words.
+a href="https://www.youtube.com/watch?v=CPVrFV4vRrw&feature=youtu.be"> The video featuring the program at work is accessible on youtube.</a>
+
+The program contains ten characters and one space between the two words.
 I have followed the basic rules about the duration of each of the character, each dot and each dash:
 
 * dot: 1 unit duration = 100 milliseconds
