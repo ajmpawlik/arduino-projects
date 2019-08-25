@@ -7,11 +7,15 @@ The Morse Code sequence looks like below:
 It contains ten characters and one space between the two words.
 I have followed the basic rules about the duration of each of the character, each dot and each dash:
 
-dot: 1 unit duration = 100 milliseconds
-dash: 3 units duration = 300 milliseconds
-space: 1 unit duration - after each dot and each dash = 100 milliseconds
-letters separator: 3 units = 300 milliseconds
-words separator: 7 units = 700 milliseconds*/
+* dot: 1 unit duration = 100 milliseconds
+
+* dash: 3 units duration = 300 milliseconds
+
+* space: 1 unit duration - after each dot and each dash = 100 milliseconds
+
+* letters separator: 3 units = 300 milliseconds
+
+* words separator: 7 units = 700 milliseconds*/
 
 void setup() {
   // put your setup code here, to run once:
