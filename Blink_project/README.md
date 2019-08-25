@@ -4,14 +4,16 @@ My very first Arduino project. It is an equivalent of "hello world" with the use
 
 ### Tech
 
-Language:
+**Language:**
 The language used in Arduino's dialect of C/C++.
+
 <a href="https://forum.arduino.cc/index.php?topic=45492.0"> More here.</a>
-More on the syntax:
-<a href="https://www.arduino.cc/reference/en/#functions"> More here.</a>
+
+More on the syntax syntax rules:
+<a href="https://www.arduino.cc/reference/en/#functions"> here.</a>
 
 
-Hardware:
+**Hardware:**
 Arduino Uno
 
 Built based on the Arduino's own example.
@@ -37,5 +39,4 @@ Each Morse code symbol is formed by a sequence of dots and dashes. The dot durat
 
 
 ### Interesting problem
-The programs I wrote will continue to execute until they are connected to the power. How to stop Arduino from executing a sketch? Interesting discussion  
-<a href="https://forum.arduino.cc/index.php?topic=86630.0">here.</a>
+The programs I wrote will continue to execute until they are connected to the power. How to stop Arduino from executing a sketch? Interesting discussion to read <a href="https://forum.arduino.cc/index.php?topic=86630.0">here.</a>
