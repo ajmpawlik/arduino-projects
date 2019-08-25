@@ -33,9 +33,15 @@ The Morse Code sequence looks like below:
 **.... . .-.. .-.. ---     .-- --- .-. .-.. -..**
 
 It contains ten characters and one space between the two words.
-I have followed the basic rules about the duration of each of the character, each dot and each dash.
+I have followed the basic rules about the duration of each of the character, each dot and each dash:
 
-Each Morse code symbol is formed by a sequence of dots and dashes. The dot duration is the basic unit of time measurement in Morse code transmission. The duration of a dash is three times the duration of a dot. Each dot or dash within a character is followed by period of signal absence, called a space, equal to the dot duration. The letters of a word are separated by a space of duration equal to three dots, and the words are separated by a space equal to seven dots.<a href="https://en.wikipedia.org/wiki/Morse_code">Wikipedia on Morse Code.</a>
+dot: 1 unit duration
+dash: 3 units duration
+space: 1 unit duration - after each dot and each dash
+letters separator: 3 units
+words separator: 7 units
+
+*Each Morse code symbol is formed by a sequence of dots and dashes. The dot duration is the basic unit of time measurement in Morse code transmission. The duration of a dash is three times the duration of a dot. Each dot or dash within a character is followed by period of signal absence, called a space, equal to the dot duration. The letters of a word are separated by a space of duration equal to three dots, and the words are separated by a space equal to seven dots.* <a href="https://en.wikipedia.org/wiki/Morse_code">Wikipedia on Morse Code.</a>
 
 
 ### Interesting problem
