@@ -7,7 +7,8 @@ My very first Arduino project. It is an equivalent of "hello world" with the use
 Language:
 The language used in Arduino's dialect of C/C++.
 https://forum.arduino.cc/index.php?topic=45492.0
-More on
+More on the syntax:
+https://www.arduino.cc/reference/en/#functions
 
 Hardware:
 Arduino Uno
